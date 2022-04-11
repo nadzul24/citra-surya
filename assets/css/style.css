@@ -1483,10 +1483,12 @@ a:hover {
 
 .card-box-ico {
   padding: 1rem 3rem 1rem 2.5rem;
+  /* border: 3px solid #d2d1d1; */
   border: 5px solid #2eca6a;
 }
+
 .card-box-ico span {
-  font-size: 4rem;
+  font-size: 3rem;
   color: #000000;
 }
 
